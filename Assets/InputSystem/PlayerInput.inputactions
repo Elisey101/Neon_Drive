@@ -48,6 +48,17 @@
                     "isPartOfComposite": true
                 },
                 {
+                    "name": "positive",
+                    "id": "dfb16393-24ef-4d16-acf1-1f3ac285a99d",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Turn",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
                     "name": "negative",
                     "id": "7006d97f-dd4e-4c76-b24c-57287bc74d47",
                     "path": "<Keyboard>/leftArrow",
@@ -60,8 +71,19 @@
                 },
                 {
                     "name": "positive",
-                    "id": "dfb16393-24ef-4d16-acf1-1f3ac285a99d",
-                    "path": "<Keyboard>/d",
+                    "id": "fbfafdd3-2a8d-42d1-b620-ef8781508361",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Turn",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "negative",
+                    "id": "cbebdeb2-4111-4fa5-bdfd-6fbe0aef3f73",
+                    "path": "<Gamepad>/leftStick/left",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard",
@@ -71,8 +93,8 @@
                 },
                 {
                     "name": "positive",
-                    "id": "fbfafdd3-2a8d-42d1-b620-ef8781508361",
-                    "path": "<Keyboard>/rightArrow",
+                    "id": "915a8a30-54fd-458f-a026-5f4747e13ed6",
+                    "path": "<Gamepad>/leftStick/right",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard",
@@ -117,6 +139,28 @@
                     "name": "negative",
                     "id": "486ed696-f39b-47f0-ba62-487e4a5745ab",
                     "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "f64c5a4c-8b30-438c-996b-0b38c0c354ce",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Keyboard",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "negative",
+                    "id": "96da5af8-8b63-4df6-a067-5681b5b55de2",
+                    "path": "<Gamepad>/leftTrigger",
                     "interactions": "",
                     "processors": "",
                     "groups": "Keyboard",
