@@ -57,7 +57,7 @@ public class PlayerController : MonoBehaviour
     }
 
     private void OnEnable() => _input.Enable();
-    private void OnDisable() =>_input.Disable();
+    private void OnDisable() => _input.Disable();
 
     void FixedUpdate()
     {
